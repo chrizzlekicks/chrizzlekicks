@@ -5,6 +5,6 @@ Technologies I have worked with: `Java`, `JS/TS`, `C`, `React`, `Vue`, `HTML`, `
 
 Feel free to get in touch if you seek to work on projects together! :handshake:
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrizzlekicks&show_icons=true&theme=tokyonight)
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrizzlekicks&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrizzlekicks&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrizzlekicks&layout=compact&langs_count=7)
