@@ -1,7 +1,7 @@
 Hello! :trollface:
 
-My name is Chris, and I am a Software Engineer based in Berlin. I have worked at BASF for some time and currently I am looking for new challenges.
-Technologies I have worked with: `Java`, `JS/TS`, `C`, `React`, `Vue`, `HTML`, `CSS/SCSS`, `SpringBoot`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Docker`, `Webpack`, `Vite`, etc. :surfer:
+My name is Chris, and I am a Software Engineer based in Berlin. I have worked at BASF for some time and currently I am working for Doctolib.
+Technologies I have worked with: `Java`, `JS/TS`, `C`, `React`, `Vue`, `Ruby`, `CSS/SCSS`,  `SpringBoot`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Docker`, `Webpack`, `Vite`, etc. :surfer:
 
 Feel free to get in touch if you seek to work on projects together! :handshake:
 
